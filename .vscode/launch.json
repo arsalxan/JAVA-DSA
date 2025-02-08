@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "f",
+      "request": "launch",
+      "mainClass": "f",
+      "projectName": "JAVA DSA_490f1be1"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "JAVA DSA_490f1be1"
+    },
+    {
+      "type": "java",
+      "name": "ternar",
+      "request": "launch",
+      "mainClass": "ternar",
+      "projectName": "JAVA DSA_490f1be1"
+    },
+    {
+      "type": "java",
+      "name": "xn",
+      "request": "launch",
+      "mainClass": "xn",
+      "projectName": "JAVA DSA_490f1be1"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mdarsalansiddiqui/Desktop/code with me/JAVA DSA",
+      "program": "/Users/mdarsalansiddiqui/Desktop/code with me/JAVA DSA/build/Debug/outDebug"
+    }
+  ]
+}
