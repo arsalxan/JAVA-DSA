@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "assigment1",
+      "request": "launch",
+      "mainClass": "assigment1",
+      "projectName": "JAVA DSA_462cde37"
+    },
+    {
+      "type": "java",
+      "name": "ceasercypher",
+      "request": "launch",
+      "mainClass": "ceasercypher",
+      "projectName": "JAVA DSA_462cde37"
+    },
+    {
+      "type": "java",
       "name": "f",
       "request": "launch",
       "mainClass": "f",

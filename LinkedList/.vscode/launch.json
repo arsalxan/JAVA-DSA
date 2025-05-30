@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Linked",
+      "request": "launch",
+      "mainClass": "Linked",
+      "projectName": "LinkedList_37bdad4f"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
