@@ -1,5 +1,3 @@
-
-
 public class nqueen {
     public static  boolean isTrue(char mat[][], int row , int  col){
         for(int i=row-1;i>=0;i--){
